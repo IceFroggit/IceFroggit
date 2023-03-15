@@ -10,8 +10,10 @@
 - 📫 You can reach me at https://t.me/IceFroggit
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icefroggit&show_icons=true&locale=en&layout=compact" alt="icefroggit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icefroggit&show_icons=true&locale=en" alt="icefroggit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icefroggit&" alt="icefroggit" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=icefroggit&show_icons=true&locale=en" alt="icefroggit" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=icefroggit&" alt="icefroggit" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=icefroggit&show_icons=true&locale=en&layout=compact" alt="icefroggit" /></p>
