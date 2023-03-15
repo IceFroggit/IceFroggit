@@ -2,7 +2,6 @@
 <h3 align="center">A passionate juniour android developer from Russia</h3>
 
 
-<p align="center"><img src="https://drive.google.com/file/d/1F-T5U7GUCZbpPO2CiFErrdKHpvHDChkz/view?usp=share_link" /> </p>
 <p align="center"><img src="https://skillicons.dev/icons?i=kotlin,idea,java,git,github,firebase,android&perline=16" alt="Tech Stack" /> </p>
 
 - 🔭 I’m currently working on [Shopping List](https://github.com/IceFroggit/ShoppingList)
