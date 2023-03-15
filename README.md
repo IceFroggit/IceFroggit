@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Shopping List](https://github.com/IceFroggit/ShoppingList)
 
-- 👨‍💻 Study at 3rd year in St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova 
+- 👨‍💻 Study at 3rd year in "St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova"
 
 - 🗣 Languages: **Kotlin ❤️ - Java - SQL - English - Russian**
 
