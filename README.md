@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on [Shopping List](https://github.com/IceFroggit/ShoppingList)
 
-- 👨‍💻 Study at St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova 
+- 👨‍💻 Study at 3rd year in St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova 
 
 - 🗣 Languages: **Kotlin ❤️ - Java - SQL - English - Russian**
 
 - 📫 You can reach me at https://t.me/IceFroggit or adil_2002@mail.ru
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=icefroggit&show_icons=true&locale=en" alt="icefroggit" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=icefroggit&show_icons=true&locale=en" alt="icefroggit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icefroggit&" alt="icefroggit" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icefroggit&" alt="icefroggit" /></p>
