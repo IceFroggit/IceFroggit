@@ -4,9 +4,7 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=kotlin,idea,java,git,github,firebase,android&perline=16" alt="Tech Stack" /> </p>
 
-- 🔭 I’m currently working on [Shopping List](https://github.com/IceFroggit/ShoppingList)
-
-- 👨‍💻 Study at 3rd year in "St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova"
+- 👨‍💻 Graduated univesity "St. Petersburg State Electrotechnical University "LETI" V.I. Ulyanova"
 
 - 🗣 Languages: **Kotlin ❤️ - Java - SQL - English - Russian**
 
